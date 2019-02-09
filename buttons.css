@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
 a.btn_Twitter {
     display: block;
     width: 230px;
@@ -15,21 +16,23 @@ a.btn_Twitter {
     margin-left: auto;
     margin-right: auto;
 }
-a.btn_Twitter i{
-    position:absolute;
-	top:59%;
-	left:10px;
-	margin-top:-0.5em;
-	color:#0070be;
+
+a.btn_Twitter i {
+    position: absolute;
+    top: 59%;
+    left: 10px;
+    margin-top: -0.5em;
+    color: #0070be;
 }
+
 a.btn_Twitter:hover {
     background: #55acee;
     color: #fff;
 }
-a.btn_Twitter:hover i{
+
+a.btn_Twitter:hover i {
     color: #fff;
 }
-
 
 
 a.btn_GitHub {
@@ -48,21 +51,23 @@ a.btn_GitHub {
     margin-left: auto;
     margin-right: auto;
 }
-a.btn_GitHub i{
-    position:absolute;
-	top:59%;
-	left:10px;
-	margin-top:-0.5em;
-	color: #f5f5f5;
+
+a.btn_GitHub i {
+    position: absolute;
+    top: 59%;
+    left: 10px;
+    margin-top: -0.5em;
+    color: #f5f5f5;
 }
+
 a.btn_GitHub:hover {
     background: #f5f5f5;
     color: #333;
 }
-a.btn_GitHub:hover i{
+
+a.btn_GitHub:hover i {
     color: #333;
 }
-
 
 
 a.btn_Mastodon {
@@ -82,21 +87,23 @@ a.btn_Mastodon {
     margin-left: auto;
     margin-right: auto;
 }
-a.btn_Mastodon i{
-    position:absolute;
-	top:59%;
-	left:10px;
-	margin-top:-0.5em;
-	color:#2b90d9;
+
+a.btn_Mastodon i {
+    position: absolute;
+    top: 59%;
+    left: 10px;
+    margin-top: -0.5em;
+    color: #2b90d9;
 }
+
 a.btn_Mastodon:hover {
     background: #d9e1e8;
     color: #2b90d9;
 }
-a.btn_Mastodon:hover i{
+
+a.btn_Mastodon:hover i {
     color: #2b90d9;
 }
-
 
 
 a.btn_Email {
@@ -115,20 +122,23 @@ a.btn_Email {
     margin-left: auto;
     margin-right: auto;
 }
-a.btn_Email i{
-    position:absolute;
-	top:59%;
-	left:10px;
-	margin-top:-0.5em;
-	color:#dadada;
+
+a.btn_Email i {
+    position: absolute;
+    top: 59%;
+    left: 10px;
+    margin-top: -0.5em;
+    color: #dadada;
 }
+
 a.btn_Email:hover {
     border: 2px solid #B23121;
     border-radius: 3px;
     background: #d44638;
     color: #eeeeee;
 }
-a.btn_Email:hover i{
+
+a.btn_Email:hover i {
     color: #eeeeee;
 }
 
@@ -149,18 +159,21 @@ a.btn_Discord {
     margin-left: auto;
     margin-right: auto;
 }
-a.btn_Discord i{
-    position:absolute;
-	top:59%;
-	left:10px;
-	margin-top:-0.5em;
-	color:#7289DA;
+
+a.btn_Discord i {
+    position: absolute;
+    top: 59%;
+    left: 10px;
+    margin-top: -0.5em;
+    color: #7289DA;
 }
+
 a.btn_Discord:hover {
     background: #7289da;
     color: #fff;
 }
-a.btn_Discord:hover i{
+
+a.btn_Discord:hover i {
     color: #fff;
 }
 
@@ -181,18 +194,21 @@ a.btn_Blogger {
     margin-left: auto;
     margin-right: auto;
 }
-a.btn_Blogger i{
-    position:absolute;
-	top:59%;
-	left:10px;
-	margin-top:-0.5em;
-	color:#f06a35;
+
+a.btn_Blogger i {
+    position: absolute;
+    top: 59%;
+    left: 10px;
+    margin-top: -0.5em;
+    color: #f06a35;
 }
+
 a.btn_Blogger:hover {
     background: #f06a35;
     color: #fff;
 }
-a.btn_Blogger:hover i{
+
+a.btn_Blogger:hover i {
     color: #fff;
 }
 
@@ -213,19 +229,20 @@ a.btn_Tumblr {
     margin-left: auto;
     margin-right: auto;
 }
-a.btn_Tumblr i{
-    position:absolute;
-	top:59%;
-	left:10px;
-	margin-top:-0.5em;
-	color:#f7f7f7;
+
+a.btn_Tumblr i {
+    position: absolute;
+    top: 59%;
+    left: 10px;
+    margin-top: -0.5em;
+    color: #f7f7f7;
 }
+
 a.btn_Tumblr:hover {
     background: #34445A;
     color: #f7f7f7;
 }
-a.btn_Tumblr:hover i{
+
+a.btn_Tumblr:hover i {
     color: #f7f7f7;
 }
-
-
