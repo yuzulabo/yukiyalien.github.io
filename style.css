@@ -32,12 +32,15 @@ h1{
     color: #9baec8;
 }
 
-a.old_and_src{
+p.old_and_src{
     font-family: 'Ubuntu', sans-serif;
     color: #9baec8;
-    text-decoration: underline;
     margin-top: 20px;
     margin-bottom: 3px;
+}
+
+a.old_and_src{
+    text-decoration: underline;
 }
 
 .copyright{
