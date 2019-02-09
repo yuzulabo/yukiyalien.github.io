@@ -32,7 +32,7 @@ h1{
     color: #9baec8;
 }
 
-.old_and_src{
+a.old_and_src{
     font-family: 'Ubuntu', sans-serif;
     color: #9baec8;
     text-decoration: underline;
