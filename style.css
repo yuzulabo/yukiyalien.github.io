@@ -35,7 +35,7 @@ h1{
 .old_and_src{
     font-family: 'Ubuntu', sans-serif;
     color: #9baec8;
-    text-decoration: none;
+    text-decoration: underline;
     margin-top: 20px;
     margin-bottom: 3px;
 }
