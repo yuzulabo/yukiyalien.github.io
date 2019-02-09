@@ -31,7 +31,18 @@ h1{
     font-family: 'Noto Sans JP', sans-serif;
     color: #9baec8;
 }
+
+.old_and_src{
+    font-family: 'Ubuntu', sans-serif;
+    color: #9baec8;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-bottom: 3px;
+}
+
 .copyright{
     font-family: 'Ubuntu', sans-serif;
     color: #9baec8;
+    margin-top: 0px;
+    margin-bottom: 10px;
 }
